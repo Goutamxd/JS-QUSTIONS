@@ -1,1 +1,1 @@
-# JS-QUSTIONS
+# Basic Questions
